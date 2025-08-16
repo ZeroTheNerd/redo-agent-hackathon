@@ -1,7 +1,18 @@
 {
-  "name": "Smart Hydration Tracker",
-  "price": 59.99,
-  "features": ["tracks water intake", "glows as reminder", "syncs with phone", "eco-friendly material"],
-  "positioning": "Designed for active, health-conscious individuals",
-  "comparables": ["Hidrate Spark", "Larq Bottle"]
+  "name": "EcoFit Everyday Bottle",
+  "price": 24.99,
+  "features": [
+    "\"insulated 24oz stainless steel\"",
+    "\"made from recycled materials\"",
+    "\"measurement markings\"",
+    "\"gentle LED sip reminder (no app required)\"",
+    "\"dishwasher safe\"",
+    "\"lifetime warranty\""
+  ],
+  "positioning": "A simple, eco-friendly hydration bottle for health-conscious people who want easy use without apps\u2014great value and built to last.\"",
+  "comparables": [
+    "\"Hydro Flask\"",
+    "\"CamelBak Eddy\"",
+    "\"Nalgene Sustain\""
+  ]
 }

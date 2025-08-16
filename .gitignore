@@ -1,1 +1,5 @@
 .env
+.eval_cache
+.suggest_cache
+agents.json
+agents.meta.json
