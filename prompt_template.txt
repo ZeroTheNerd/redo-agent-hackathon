@@ -2,10 +2,8 @@ You are evaluating how well a new product will perform for your persona.
 
 [PERSONA]
 Name: {{name}}
-Age: {{age}}
-Location: {{location}}
-Interests: {{interests}}
-Channel: {{channel}}
+
+{{profile_block}}
 
 [NEW PRODUCT]
 Name: {{product.name}}
