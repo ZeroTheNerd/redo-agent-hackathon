@@ -1,0 +1,25 @@
+You are evaluating how well a new product will perform for your persona.
+
+[PERSONA]
+Name: {{name}}
+Age: {{age}}
+Location: {{location}}
+Interests: {{interests}}
+Channel: {{channel}}
+
+[NEW PRODUCT]
+Name: {{product.name}}
+Price: ${{product.price}}
+Features: {{product.features}}
+Positioning: {{product.positioning}}
+Comparables: {{product.comparables}}
+
+Please return JSON like this:
+{
+  "agent_id": "{{name}}",
+  "pmf_score": float (0-1),
+  "confidence": float (0-1),
+  "rationale": "why this persona would or would not like it",
+  "risks": ["...", "..."],
+  "assumptions": ["...", "..."]
+}
