@@ -14,6 +14,9 @@ Features: {{product.features}}
 Positioning: {{product.positioning}}
 Comparables: {{product.comparables}}
 
+[EVIDENCE]
+{{evidence_block}}
+
 Please return JSON like this:
 {
   "agent_id": "{{name}}",
