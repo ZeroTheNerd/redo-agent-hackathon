@@ -1,18 +1,18 @@
 {
-  "name": "EcoFit Everyday Bottle",
-  "price": 24.99,
+  "name": "HydraPro Elite Pod System",
+  "price": 299.0,
   "features": [
-    "\"insulated 24oz stainless steel\"",
-    "\"made from recycled materials\"",
-    "\"measurement markings\"",
-    "\"gentle LED sip reminder (no app required)\"",
-    "\"dishwasher safe\"",
-    "\"lifetime warranty\""
+    "\"requires monthly single-use hydration pods\"",
+    "\"companion app mandatory for basic use\"",
+    "\"initial calibration with arm sensor patch\"",
+    "\"cloud analytics subscription $19.99/mo\"",
+    "\"proprietary bottle (pods only work in this bottle)\"",
+    "\"Bluetooth + Wi-Fi pairing required\""
   ],
-  "positioning": "A simple, eco-friendly hydration bottle for health-conscious people who want easy use without apps\u2014great value and built to last.\"",
+  "positioning": "\"For elite biohackers and competitive athletes who want maximum telemetry and AI coaching",
   "comparables": [
-    "\"Hydro Flask\"",
-    "\"CamelBak Eddy\"",
-    "\"Nalgene Sustain\""
+    "Whoop 4.0\"",
+    "\"Oura Ring Gen3\"",
+    "\"Eight Sleep Pod"
   ]
 }
